@@ -1,0 +1,29 @@
+/*variables*/
+
+:root {
+    --color: red;
+}
+
+body {
+    background: whitesmoke;
+}
+
+h1 {
+    background: green;
+    color: var(--color);
+}
+
+.titulo {
+    background: black;
+    color: white;
+}
+
+.bold {
+    /*Negritas*/
+    font-weight: bold;
+}
+
+.center {
+    /*Centrar el texto*/
+    text-align: center;
+}
